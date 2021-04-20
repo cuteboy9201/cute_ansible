@@ -1,6 +1,6 @@
 # oslo==1.0.1 https://github.com/cuteboy9201/oslo.git
 tornado==5.1.1
 # sentry_sdk==0.13.2
-ansible==2.7
+ansible==2.9.20
 pika==1.1.0
 rsa==4.0
